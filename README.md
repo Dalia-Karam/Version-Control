@@ -17,11 +17,11 @@ git stach pop
 
 To list tag:
 git tag ->lists all tags
-git tag v1.0 -> lists info about tag called v1.0
+git tag v1.7 -> lists info about tag called v1.7
 
 To delete tag locally:
-git tag -d v1.0
+git tag -d v1.7
 
 To delete tag remotely:
-git push origin --delete v1.0
+git push origin --delete v1.7
 ![image](https://github.com/user-attachments/assets/ca4da1b8-2cd4-44de-83a9-e47fd733b01d)
